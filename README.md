@@ -22,6 +22,3 @@ Deploy using Docker or through a cloud ML service.
 
 
 Future Work
-
-
-
