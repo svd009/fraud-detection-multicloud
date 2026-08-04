@@ -151,19 +151,3 @@ The project includes standalone scripts for pushing trained models to cloud ML p
 - `gcp_deploy.py` — deploy to GCP (Vertex AI)
 
 <!-- CONFIRM: brief description of what each script actually does (e.g. uploads model to S3 + registers a SageMaker endpoint) -->
-
-## Data
-
-<!-- FLAG: the previous README described this as using "synthetic data," but train_baseline.py reads data/raw/creditcard.csv and handles a ~0.17% fraud rate — this matches the well-known Kaggle "Credit Card Fraud Detection" dataset (real, anonymized transactions), not synthetic data. Let me know which is accurate so I can describe the dataset correctly and credit the source if needed. -->
-
-## Roadmap / Future Work
-
-<!-- CONFIRM: anything you'd like listed here — e.g. Azure ML support, model monitoring, CI/CD, a Streamlit dashboard front-end -->
-
-## License
-
-<!-- CONFIRM: license (MIT is a common default for portfolio projects if you don't already have one) -->
-
-## Author
-
-**Suujay** — [github.com/svd009](https://github.com/svd009)
